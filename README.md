@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anybody who can help me out...
 - 📫 How to reach me text me on github i will repply ASAP...
 - And of course i am a beginner at coding
-- but my aim to be a Web Developer
+- but my aim is to be a Web Developer
 
 <!---
 taherahmed6927/taherahmed6927 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
